@@ -6,6 +6,6 @@ Lisp.
 
 |---------+----------------------------------------|
 | source  | git:https://github.com/kjinho/ciao.git |
-| commit  | c967657                                |
+| commit  | 2f2b0ac                                |
 | systems | ciao                                   |
 |---------+----------------------------------------|
